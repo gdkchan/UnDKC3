@@ -10,7 +10,7 @@ namespace UnDKC3
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("UnDKC3 - Donkey Kong Country 3 Text Editor by gdkchan");
-            Console.WriteLine("Version 0.1.1");
+            Console.WriteLine("Version 0.1.2");
             Console.WriteLine(string.Empty);
             Console.ResetColor();
 
