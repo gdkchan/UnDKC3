@@ -175,10 +175,10 @@ namespace UnDKC3
                 Console.WriteLine(string.Empty);
                 Console.ResetColor();
 
-                Console.WriteLine("udkc3 -extract dkc3.smc english_texts");
-                Console.WriteLine("udkc3 -insert dkc3.smc english_texts");
-                Console.WriteLine("udkc3 -extract fr dkc3.smc french_texts");
-                Console.WriteLine("udkc3 -insert fr dkc3.smc french_texts");
+                Console.WriteLine("undkc3 -extract dkc3.smc english_texts");
+                Console.WriteLine("undkc3 -insert dkc3.smc english_texts");
+                Console.WriteLine("undkc3 -extract fr dkc3.smc french_texts");
+                Console.WriteLine("undkc3 -insert fr dkc3.smc french_texts");
             }
         }
     }
